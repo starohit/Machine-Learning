@@ -16,7 +16,6 @@ Tableau has great features such as:
     dashboards
     team members collaboration, and tons more.
     
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |------ | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |------ | --- | --- | --- |--- |--- |--- |--- |--- |---
     
 What is Power BI?
 
@@ -40,3 +39,10 @@ The cool features you have access to with Power BI include:
 Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
