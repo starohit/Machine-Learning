@@ -16,6 +16,7 @@ Tableau has great features such as:
     dashboards
     team members collaboration, and tons more.
     
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |------ | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |------ | --- | --- | --- |--- |--- |--- |--- |--- |---
     
 What is Power BI?
 
