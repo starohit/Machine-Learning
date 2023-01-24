@@ -1,4 +1,4 @@
-What is Tableau?
+## What is Tableau?
 
 Tableau became popular in the early 2000s. It is the leading data visualization and business intelligence tool for companies that want to be data-driven.
 
@@ -17,7 +17,7 @@ Tableau has great features such as:
     team members collaboration, and tons more.
     
     
-What is Power BI?
+## What is Power BI?
 
 Power BI is a suite of data analysis and visualization tools and services that helps you convert data into visually interactive reports. It was made available to the public in 2011.
 
@@ -36,7 +36,7 @@ The cool features you have access to with Power BI include:
     integration with Azure machine learning
     
     
-Why Use Power BI or Tableau Instead of Excel?
+## Why Use Power BI or Tableau Instead of Excel?
 
 Tableau and Power BI are made for one important thing Excel is not primarily made for – data visualization. I know you can still make charts with Excel, but that functionality is limited in comparison to both Power BI and Tableau.
 
