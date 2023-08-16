@@ -1,16 +1,15 @@
-STUDENT PERFORMANCE PREDICTION/ANALYSIS USING MACHINE LEARNING
+# STUDENT PERFORMANCE PREDICTION/ANALYSIS USING MACHINE LEARNING
 
-PROJECT SYNOPSIS
-OF MAJOR PROJECT
+## PROJECT SYNOPSIS OF MAJOR PROJECT
 
 BACHELOR OF TECHNOLOGY
 Information Technology
 
 SUBMITTED BY
-Ritik Roshan Jha [B20/IT/137] [10305520028]
-Souradeep Singha [20/IT/110] [10300220110]
-Rohit Kumar Singh [20/IT/082] [10300220082]
-Sonu Kumar [20/IT/106] [10300220106]
+## Ritik Roshan Jha [B20/IT/137] [10305520028]
+## Souradeep Singha [20/IT/110] [10300220110]
+## Rohit Kumar Singh [20/IT/082] [10300220082]
+## Sonu Kumar [20/IT/106] [10300220106]
 August 2023
 
 UNDER THE GUIDANCE OF
@@ -22,17 +21,19 @@ HALDIA INSTITUTE OF TECHNOLOGY
 HALDIA, WEST BENGAL
 
 
-TABLE OF CONTENTS
-SERIAL NO.	CONTENT	PAGE NO.
-1	Introduction	1
-2	Rationale	2
-3	Objective	2
-4	Literature Review	3
-5	Feasibility study	3
-6	Methodology / Planning of work	4
-7	System Requirements	4
-8	Outcome	5
-9	References	6
+##TABLE OF CONTENTS
+
+|SERIAL NO.|	CONTENT                        |	PAGE NO.|
+|----------|--------------------------------|---------|
+|1         |	Introduction	                  |1        |
+|2         |	Rationale	                     |2        |
+|3         |	Objective	                     |2        |
+|4         |	Literature Review	             |3        |
+|5         |	Feasibility study	             |3        |
+|6         |	Methodology / Planning of work	|4        |
+|7         |	System Requirements	           |4        |
+|8         |	Outcome	                       |5        |
+|9         |	References	                    |6        |
 
  
 
