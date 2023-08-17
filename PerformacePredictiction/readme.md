@@ -17,7 +17,7 @@ Prof. (Dr.) Soumen Paul, Head of the Department of IT
 
  
 
-HALDIA INSTITUTE OF TECHNOLOGY
+##HALDIA INSTITUTE OF TECHNOLOGY
 HALDIA, WEST BENGAL
 
 
