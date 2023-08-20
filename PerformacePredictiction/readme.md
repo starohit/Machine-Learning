@@ -6,11 +6,11 @@ BACHELOR OF TECHNOLOGY
 Information Technology
 
 SUBMITTED BY
-## Ritik Roshan Jha [B20/IT/137] [10305520028]
-## Souradeep Singha [20/IT/110] [10300220110]
-## Rohit Kumar Singh [20/IT/082] [10300220082]
-## Sonu Kumar [20/IT/106] [10300220106]
-August 2023
+                                             ## Ritik Roshan Jha [B20/IT/137] [10305520028]
+                                             ## Souradeep Singha [20/IT/110] [10300220110]
+                                             ## Rohit Kumar Singh [20/IT/082] [10300220082]
+                                             ## Sonu Kumar [20/IT/106] [10300220106]
+                                             August 2023
 
 UNDER THE GUIDANCE OF
 Prof. (Dr.) Soumen Paul, Head of the Department of IT
