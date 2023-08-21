@@ -65,8 +65,11 @@ Informed Decision-making: The system seeks to provide educators, administrators,
 
 ## LITERATURE REVIEW
 Numerous studies have been conducted in the field of educational data analysis and student performance prediction using machine learning techniques. A review of some of these studies sheds light on the approaches and results achieved:
+
 	The study conducted by Kotsiantis et al [2][5] is one of the initial studies which investigated application of machine learning techniques in distance learning for dropout prediction. The most significant contribution by this study was that it was a pioneer and carved the path for several such studies.
+
 	Bhardwaj and Pal [3] conducted a study in India, Faizabad to determine factors that most heavily affected student performance. They used Bayesian Classification for their study.
+
 	The study by Erkan Er [4] was based upon Kotsiantis' as well as other similar studies. It concluded that Naive Bayes indeed performed better than any other machine learning algorithm [6].
 ¬¬¬¬
 
