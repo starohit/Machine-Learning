@@ -128,9 +128,14 @@ Moreover, students themselves benefit from increased awareness of their academic
 
 ## REFERENCES
 	Boran Sekeroglu, Kamil Dimililer, Kubra Tuncal, “Student Performance Prediction and Classification Using Machine Learning Algorithms” ACM Access, vol. 1, no. 1, pp. 1, 2019. 
+
 	S. Kotsiantis, C. Pierrakeas, and P. Pintelas, “Preventing student dropout in distance learning systems using machine learning techniques,” AI Techniques in Web-Based Educational Systems at Seventh International Conference on Knowledge-Based Intelligent Information & Engineering Systems, pp. 3-5, September 2003.
+
 	 B.K. Bharadwaj and S. Pal. "Data Mining: A prediction for performance improvement using classification", International Journal of Computer Science and Information Security (IJCSIS), Vol. 9, No. 4, pp. 136-140, 2011.
+
 	Erkan Er. "Identifying At-Risk Students Using Machine Learning Techniques", International Journal of Machine Learning and Computing, Vol. 2, No. 4, pp. August 2012.
+
 	S. Kotsiantis, I.D. Zaharakis, and P. Pintelas, "Assessing Supervised Machine Learning Techniques for Predicting Student Learning Preferences"
+
 	Havan Agrawal, Harshil Mavani, “Student Performance Prediction using Machine Learning”, International Journal of Engineering Research & Technology, Vol. 4, No. 03, pp. , March-2015.
 
